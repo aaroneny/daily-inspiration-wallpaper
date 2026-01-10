@@ -2,110 +2,149 @@ import os
 import requests
 import datetime
 import random
+import time
 
 # ================= 配置区域 =================
-# 这里的关键词是根据你上传的图片风格定制的
+# 扩充后的关键词库，确保10张图风格各异
 KEYWORDS = [
-    "cinematic lighting",   # 电影级布光
+    "cinematic lighting",   # 电影光感
     "epic nature",          # 史诗自然
-    "moody urban",          # 情绪化城市
-    "hope sunrise",         # 希望与日出
-    "mountain silhouette",  # 山峰剪影
-    "cyberpunk city",       # 赛博朋克 (类似图1的城市感)
-    "solitary hiker"        # 孤独的徒步者 (类似图2)
+    "moody urban",          # 情绪城市
+    "hope sunrise",         # 希望日出
+    "mountain silhouette",  # 山脉剪影
+    "cyberpunk city",       # 赛博朋克
+    "solitary hiker",       # 孤独行者
+    "starry night",         # 璀璨星空
+    "futuristic architecture", # 未来建筑
+    "misty forest",         # 迷雾森林
+    "aerial view",          # 上帝视角
+    "minimalist landscape", # 极简地貌
+    "neon vibes"            # 霓虹氛围
 ]
 
-# 每次运行下载几张？建议 1 张，保持精品
-DOWNLOAD_COUNT = 1
+# 每次运行生成的数量
+BATCH_SIZE = 10 
 SAVE_DIR = "wallpapers"
 # ===========================================
 
 UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
 API_URL = "https://api.unsplash.com/photos/random"
 
-def get_wallpaper():
-    """从 Unsplash 获取符合审美的高清图"""
+def get_one_wallpaper():
+    """随机抽取一个关键词，获取一张图"""
     headers = {
         "Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"
     }
     
-    # 随机选一个关键词组合，保持新鲜感
+    # 随机选一个主题
     query = random.choice(KEYWORDS)
-    print(f"🔍 今天的探索主题: {query}")
+    print(f"🔍 正在探索主题: {query} ...")
 
     params = {
         "query": query,
-        "orientation": "landscape", # 只要横图
-        "count": DOWNLOAD_COUNT,
-        "content_filter": "high"    # 过滤低俗内容
+        "orientation": "landscape",
+        "count": 1,
+        "content_filter": "high"
     }
 
     try:
         response = requests.get(API_URL, headers=headers, params=params)
         if response.status_code == 200:
-            return response.json()
+            data = response.json()
+            # API返回的是列表，我们要取第一个
+            return data[0] if isinstance(data, list) else data
         else:
-            print(f"API 请求失败: {response.status_code} - {response.text}")
-            return []
+            print(f"⚠️ API 请求失败: {response.status_code}")
+            return None
     except Exception as e:
-        print(f"发生错误: {e}")
-        return []
+        print(f"❌ 发生错误: {e}")
+        return None
 
-def download_image(img_data):
-    """下载图片并保存"""
+def download_images():
+    """执行多次下载任务"""
     if not os.path.exists(SAVE_DIR):
         os.makedirs(SAVE_DIR)
 
     saved_files = []
     
-    for img in img_data:
-        img_url = img['urls']['full'] # 获取最高清原图
-        img_id = img['id']
-        author_name = img['user']['name']
-        author_link = img['user']['links']['html']
+    print(f"🚀 开始采集 {BATCH_SIZE} 张精选壁纸...")
+    
+    for i in range(BATCH_SIZE):
+        img_data = get_one_wallpaper()
         
-        # 为了不占太多空间，我们也可以选择 'regular' 尺寸，这里选 'full' 追求极致画质
-        # 如果仓库太大，可以改用 img['urls']['regular']
-        
-        today = datetime.datetime.now().strftime("%Y-%m-%d")
-        filename = f"{SAVE_DIR}/{today}_{img_id}.jpg"
-        
-        print(f"⬇️ 正在下载: {filename} ...")
-        
-        with open(filename, 'wb') as f:
-            f.write(requests.get(img_url).content)
+        if img_data:
+            img_url = img_data['urls']['regular'] # 改用 regular 以免10张原图导致仓库爆炸
+            img_id = img_data['id']
+            author_name = img_data['user']['name']
+            author_link = img_data['user']['links']['html']
+            desc = img_data.get('alt_description') or img_data.get('description') or "Untitled"
             
-        saved_files.append({
-            "path": filename,
-            "url": img_url,
-            "author": author_name,
-            "author_link": author_link,
-            "description": img.get('alt_description') or "Untitled",
-            "date": today
-        })
+            today = datetime.datetime.now().strftime("%Y-%m-%d")
+            # 文件名加上索引，防止一秒内下载多张重名
+            filename = f"{SAVE_DIR}/{today}_{i}_{img_id}.jpg"
+            
+            print(f"   [{i+1}/{BATCH_SIZE}] ⬇️ 下载: {desc[:20]}...")
+            
+            try:
+                with open(filename, 'wb') as f:
+                    f.write(requests.get(img_url).content)
+                
+                saved_files.append({
+                    "path": filename,
+                    "author": author_name,
+                    "author_link": author_link,
+                    "desc": desc.title()
+                })
+            except Exception as e:
+                print(f"   保存失败: {e}")
         
+        # 稍微暂停一下，对 API 温柔一点
+        time.sleep(0.5)
+            
     return saved_files
 
 def update_readme(new_images):
-    """更新 README 展示画廊"""
+    """更新 README，使用 HTML 表格实现双列排版"""
     readme_path = "README.md"
+    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     
-    # 读取旧内容
     if os.path.exists(readme_path):
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
     else:
-        content = "# 🌄 Daily Inspiration Wallpapers\n\n每天一张视觉震撼的壁纸，保持饥渴，保持愚蠢。\n\n---"
+        content = "# 🌄 Daily Inspiration Gallery\n\n每天更新的视觉灵感库。\n\n---"
 
-    # 构造新图片的 Markdown
-    new_entry = ""
-    for img in new_images:
-        # 使用 HTML 标签可以控制图片宽度，避免太占版面
-        new_entry += f"\n### 📅 {img['date']} | {img['description'].title()}\n"
-        new_entry += f"<img src='{img['path']}' width='100%' style='border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);'>\n\n"
-        new_entry += f"> 📸 Photo by [{img['author']}]({img['author_link']}) on Unsplash\n\n---\n"
+    # 构造 HTML 表格内容 (每行2张图)
+    new_entry = f"\n### 📅 {today_str} Collection\n\n<table>\n"
+    
+    for i in range(0, len(new_images), 2):
+        # 取出左边一张
+        img1 = new_images[i]
+        # 尝试取出右边一张（如果还有的话）
+        img2 = new_images[i+1] if i+1 < len(new_images) else None
+        
+        new_entry += "  <tr>\n"
+        
+        # 左侧单元格
+        new_entry += f"    <td width='50%' align='center'>\n"
+        new_entry += f"      <img src='{img1['path']}' width='100%' style='border-radius:8px'><br>\n"
+        new_entry += f"      <sub><b>{img1['desc']}</b><br>by <a href='{img1['author_link']}'>{img1['author']}</a></sub>\n"
+        new_entry += "    </td>\n"
+        
+        # 右侧单元格
+        if img2:
+            new_entry += f"    <td width='50%' align='center'>\n"
+            new_entry += f"      <img src='{img2['path']}' width='100%' style='border-radius:8px'><br>\n"
+            new_entry += f"      <sub><b>{img2['desc']}</b><br>by <a href='{img2['author_link']}'>{img2['author']}</a></sub>\n"
+            new_entry += "    </td>\n"
+        else:
+            new_entry += "    <td width='50%'></td>\n" # 占位
+            
+        new_entry += "  </tr>\n"
 
-    # 将新内容插入到标题之后（即置顶最新图片）
+    new_entry += "</table>\n\n---\n"
+
+    # 插入到顶部
     header_end_index = content.find("---") + 3
     final_content = content[:header_end_index] + new_entry + content[header_end_index:]
 
@@ -117,10 +156,9 @@ if __name__ == "__main__":
         print("❌ 错误: 未找到 UNSPLASH_ACCESS_KEY")
         exit(1)
 
-    images = get_wallpaper()
+    images = download_images()
     if images:
-        saved_list = download_image(images)
-        update_readme(saved_list)
-        print("✅ 任务完成！")
+        update_readme(images)
+        print(f"✅ 今日 {len(images)} 张壁纸采集完成！")
     else:
-        print("⚠️ 未找到图片")
+        print("⚠️ 未能下载任何图片")
