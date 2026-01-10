@@ -1,0 +1,39 @@
+name: 🗑️ Reset Repository
+
+on:
+  workflow_dispatch: # 手动触发按钮
+
+jobs:
+  reset-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须有写权限
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Delete all wallpapers
+        run: |
+          # 强制删除 wallpapers 文件夹及其内容
+          rm -rf wallpapers/
+          # 重新创建一个空的 wallpapers 文件夹（防止脚本找不到目录报错）
+          mkdir wallpapers
+          # 放入一个 .gitkeep 占位文件，确保空文件夹能被 git 提交
+          touch wallpapers/.gitkeep
+
+      - name: Reset README.md
+        run: |
+          # 将 README.md 的内容重写为初始状态
+          # 下面的文字你可以根据喜好自己改
+          echo "# 🌄 Daily Inspiration Gallery" > README.md
+          echo "" >> README.md
+          echo "每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🧨 Reset repository to initial state"
+          file_pattern: "wallpapers/ README.md"
