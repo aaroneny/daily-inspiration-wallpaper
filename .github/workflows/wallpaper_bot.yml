@@ -1,0 +1,36 @@
+name: Get Daily Wallpaper
+
+# 每天早上 7 点运行 (UTC 23:00)
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-wallpaper:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须要有写权限
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: python main.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🎨 Update daily wallpaper"
+          file_pattern: "README.md wallpapers/*.jpg"
