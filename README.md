@@ -3,3 +3,60 @@
 每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。
 
 ---
+### 📅 2026-01-12 精选集
+
+<table>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_0_6TNvz3dSg7I.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Low Angle Photography Of High Rise Building</b><br>by <a href='https://unsplash.com/@iziashnyi'>Max Kolganov</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_1_zzPxdCXPnY4.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Starry Night Sky Over Trees</b><br>by <a href='https://unsplash.com/@crodie15'>Caleb Roden</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_2_KQ1gs72xR44.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Yellow Leaf Trees On Road</b><br>by <a href='https://unsplash.com/@pedrino5_official'>Peter Steiner 🇨🇭 1973</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_3_rIMFL11mr9c.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Silhouette Of A Man Standing On A Beach At Sunse...</b><br>by <a href='https://unsplash.com/@dagerotip'>George Dagerotip</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_4_pvJROkfnoRE.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A View Of A Body Of Water At Dusk</b><br>by <a href='https://unsplash.com/@djthoms'>DJ</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_5_6lOwmoquDpY.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Hill Covered In Fog With Trees On Top Of It</b><br>by <a href='https://unsplash.com/@zetong'>Zetong Li</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_6_BD4gTNBVo3E.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Snow-Capped Mountain During Daytime</b><br>by <a href='https://unsplash.com/@louistricot'>louis tricot</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_7_2uTakXfXRI0.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Outskirts Of Szczecin, Poland.</b><br>by <a href='https://unsplash.com/@skajpel'>Krzysztof Płocha</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_8_JhltErJvDrQ.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Nanjing City View From Zijin Mt. Telpher. May 2021...</b><br>by <a href='https://unsplash.com/@shioyang'>Shio Yang</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-12_9_cSKD7Vq6zeo.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Red And Blue Led Signage</b><br>by <a href='https://unsplash.com/@matzebob'>Matze Bob</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
