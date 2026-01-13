@@ -3,6 +3,63 @@
 每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。
 
 ---
+### 📅 2026-01-14 精选集
+
+<table>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_0_XYxz-BUtt6I.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Fire In The Sky 3</b><br>by <a href='https://unsplash.com/@martinadams'>Martin Adams</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_1_iT5yCpdvZAM.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Narrow Alley Way With Neon Signs On The Building...</b><br>by <a href='https://unsplash.com/@travelershigh'>INHYEOK PARK</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_2_srode3V_g7c.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Forest Of Trees</b><br>by <a href='https://unsplash.com/@yibocat'>Yibo Wang</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_3_KcsBbR9Xty8.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Couple Of Tall Buildings Next To Each Other</b><br>by <a href='https://unsplash.com/@photoken123'>Ian</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_4_a51dW6WJf88.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Sunlight Shines Through Tall, Dark Trees.</b><br>by <a href='https://unsplash.com/@shotxhc'>Harjinder Cheema</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_5_0m1WtGyntZQ.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Man Standing On A Mountain Peak Using One Foot Onl...</b><br>by <a href='https://unsplash.com/@mael_balland'>Maël BALLAND</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_6_f9bxM4GoPDk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>I Stand In Andalusia, Spain, Captured At The Perfe...</b><br>by <a href='https://unsplash.com/@nereiq'>Nereid Ndreu</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_7_9zC8kGSIiJ4.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>An Empty Parking Lot With A Sunset In The Backgrou...</b><br>by <a href='https://unsplash.com/@pino_rumbero'>Michael Pointner</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_8_63bS4konRUk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Close Up View Of A Red Leaf</b><br>by <a href='https://unsplash.com/@drscythe'>Dominik Scythe</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-14_9_BBBCqDD5d4c.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Golden Sunrise Over Australian Ranch</b><br>by <a href='https://unsplash.com/@smil_e_s'>elaine alex</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📅 2026-01-13 精选集
 
 <table>
