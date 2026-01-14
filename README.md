@@ -3,6 +3,63 @@
 每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。
 
 ---
+### 📅 2026-01-15 精选集
+
+<table>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_0_GIr9YakquDo.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Adventurers Climb A Rocky Mountain Under A Cloudy ...</b><br>by <a href='https://unsplash.com/@thlt_lcx'>THLT LCX</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_1_9zYvpL-FzsI.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Person Standing On A Beach At Sunset</b><br>by <a href='https://unsplash.com/@boam_production'>BOAM PRODUCTION</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_2_pR6Db_SiPco.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Milky Way Over The Mountains</b><br>by <a href='https://unsplash.com/@ahmetyuksek'>Ahmet Yüksek ✪</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_3__z4RGVKKuds.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Green Pine Trees Covered With Fog</b><br>by <a href='https://unsplash.com/@davidjboozer'>David J. Boozer</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_4_GbMbRpMWkGA.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Sunset Yulinzhou</b><br>by <a href='https://unsplash.com/@hushuobadao'>Chen gang</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_5_RDQ84TmVSWA.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Group Of People Standing On Top Of A Mountain</b><br>by <a href='https://unsplash.com/@matthieur68'>Matthieu Rochette</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_6_cJ2-vG3rXAA.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Blurry Photo Of A Leafy Tree In The Dark</b><br>by <a href='https://unsplash.com/@rays_pickpic'>Ray Kim</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_7_0OB_HZJiLc0.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A City Skyline At Sunset</b><br>by <a href='https://unsplash.com/@mrparalloid'>Denis Volkov</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_8_cXvTkHkfEwk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Misty Morning In The Woods</b><br>by <a href='https://unsplash.com/@zmachacek'>Zdeněk Macháček</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-15_9_hRZs7goLd48.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Street Light In Front Of A Tall Building</b><br>by <a href='https://unsplash.com/@chaunceyli'>Chauncey LI</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📅 2026-01-14 精选集
 
 <table>
