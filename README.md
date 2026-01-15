@@ -3,6 +3,63 @@
 每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。
 
 ---
+### 📅 2026-01-16 精选集
+
+<table>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_0_9zC8kGSIiJ4.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>An Empty Parking Lot With A Sunset In The Backgrou...</b><br>by <a href='https://unsplash.com/@pino_rumbero'>Michael Pointner</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_1_M_9OJ18FqVY.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Silhouette Of Trees Under Starry Night</b><br>by <a href='https://unsplash.com/@mana5280'>mana5280</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_2_OKlH2Br_CUM.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A View Of A Mountain With Snow On It</b><br>by <a href='https://unsplash.com/@prphotography262'>Peter Robbins</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_3_e2TdGkAMa1I.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>White Concrete Wall</b><br>by <a href='https://unsplash.com/@keano16'>Robert Keane</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_4_e-lsyZ09l7Y.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Cow Standing In The Middle Of A Forest On A Fogg...</b><br>by <a href='https://unsplash.com/@ninjason'>Jason Leung</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_5_TiCYiiW_phA.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Snow Covered Mountains During Daytime</b><br>by <a href='https://unsplash.com/@simonpallard'>Simon PALLARD</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_6_X8i1jK_VnGk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Bird Sitting On Top Of A Large Rock Near The Oce...</b><br>by <a href='https://unsplash.com/@timgmtthws'>Tim Matthews</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_7_8Bf3GBmzUXw.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Orange Setting Sun In Grassfields</b><br>by <a href='https://unsplash.com/@druks'>Félix Besombes</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_8_r_dyWeqxFu0.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Green Leaf Wallpaper</b><br>by <a href='https://unsplash.com/@gpedrosousa'>Pedro Sousa</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-16_9_gXBTDlyD_Ig.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Feel Free To Use This Picture But Credit My Instag...</b><br>by <a href='https://unsplash.com/@raph_lopes'>Raphael Lopes</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📅 2026-01-15 精选集
 
 <table>
