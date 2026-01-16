@@ -3,6 +3,63 @@
 每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。
 
 ---
+### 📅 2026-01-17 精选集
+
+<table>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_0_TyFvuUC29_0.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Green Grass Field During Sunset</b><br>by <a href='https://unsplash.com/@bsienta'>Basienta Roy</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_1_z0YDOrSNEkA.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Black And White Photo Of A Fern Leaf</b><br>by <a href='https://unsplash.com/@mikehindle'>Mike Hindle</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_2_kpROUJVelKI.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Person In Black Jacket Standing On Brown Rock</b><br>by <a href='https://unsplash.com/@alisestorsul'>alise storsul</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_3_faOI0W6JJVY.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>The Sun Is Setting Over The Ocean With Waves</b><br>by <a href='https://unsplash.com/@grant_durr'>Grant Durr</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_4_OrwOV6nT5Kk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>On The Top .</b><br>by <a href='https://unsplash.com/@jayesh07'>Jayesh G</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_5_8ynYQ0YKCFc.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Cityscape In The Setting Sun</b><br>by <a href='https://unsplash.com/@garvitnama'>Garvit Nama</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_6_pk4MlY0-O7s.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>The Sun Is Setting Over A Mountain In The Sky</b><br>by <a href='https://unsplash.com/@dickenslin76'>DL314 Lin</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_7_2akxLis79EU.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Tree Lights</b><br>by <a href='https://unsplash.com/@jeffcaron'>Jeff Caron-Robert</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_8_ibWotx1glPk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Lake’N Sea</b><br>by <a href='https://unsplash.com/@xwpics'>Xan White</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-17_9_1msyzgxmY3I.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>City Skyline During Night Time</b><br>by <a href='https://unsplash.com/@nikx391'>Nikitha Suresh</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📅 2026-01-16 精选集
 
 <table>
