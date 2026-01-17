@@ -3,6 +3,63 @@
 每天更新的视觉灵感库。精选积极向上、震撼人心的史诗级壁纸。
 
 ---
+### 📅 2026-01-18 精选集
+
+<table>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_0_zNy3uDZScyQ.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Ocean Waves Crashing On Shore During Daytime</b><br>by <a href='https://unsplash.com/@mitchorr'>Mitchell Orr</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_1_YyA67MXMMXQ.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Tall Building Sitting Next To A Tall Building</b><br>by <a href='https://unsplash.com/@davidkristianto'>David Kristianto</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_2_Tia33zEPIKk.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Yellow Petaled Flower</b><br>by <a href='https://unsplash.com/@leviventura_'>Levi Ventura</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_3_9sJjEqS7juA.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Group Of People Standing In Front Of Neon Signs</b><br>by <a href='https://unsplash.com/@ponsux'>pons. photo</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_4_bKIpZ83avJU.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Close-Up Of A Green Fern Frond Unfurling.</b><br>by <a href='https://unsplash.com/@francesco_ungaro'>Francesco Ungaro</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_5_H_3BMiY2Hoc.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Man Standing On Top Of A Cliff Next To The Ocean</b><br>by <a href='https://unsplash.com/@rorymck94'>Rory McKeever</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_6_Kct5clG9lg4.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Misty Morning In The Woods</b><br>by <a href='https://unsplash.com/@zmachacek'>Zdeněk Macháček</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_7__qLvQzcxufs.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>Silhouette Of Person In Front Of Body Of Water Dur...</b><br>by <a href='https://unsplash.com/@dylanw216'>Dylan</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_8_iAgZsZtNm4o.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>A Hiker Contemplates Majestic Mountains In Nature.</b><br>by <a href='https://unsplash.com/@kaylalinford'>kayla linford</a></sub>
+    </td>
+    <td width='50%' align='center' style='border:none; padding:10px'>
+      <img src='wallpapers/2026-01-18_9_v3UJ5GMtb60.jpg' width='100%' style='border-radius:8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)'><br>
+      <sub style='color:#666'><b>The Sun Is Setting Over A City With Tall Buildings</b><br>by <a href='https://unsplash.com/@davidkristianto'>David Kristianto</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📅 2026-01-17 精选集
 
 <table>
